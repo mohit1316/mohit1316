@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mohit Kumar.
 - 👀 I’m interested in Front-end Development and Android App Development.
-- 🌱 I’m currently knowing Java ,C/C++ ,Data Structures & Algorithms,SQL.
+- 🌱 I currently know Java ,Python ,Data Structures & Algorithms,MySQL.
+- 
 
 <!---
 mohit1316/mohit1316 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
